@@ -1,4 +1,4 @@
-![Build-Push-And-Test Workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/build-push-and-deploy.yml/badge.svg)
+![Build-Push-And-Test Workflow](https://github.com/ramonzumstein/autobuilds/actions/workflows/build-push-and-deploy.yml/badge.svg)
 # Linux Tweet App
 
 This is very simple NGINX website that allows a user to send a tweet. 
